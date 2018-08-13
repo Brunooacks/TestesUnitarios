@@ -36,6 +36,4 @@ public class PreEPosCondicoesDaClass {
 	public static void posCondicao_DespoisClasse() {
 		System.out.println("Executou depois de todos os testes");
 	}
-
-
 }
